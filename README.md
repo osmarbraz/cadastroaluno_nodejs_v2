@@ -13,8 +13,8 @@
 
 ## Dependências
 
-- express,
 - cors,
+- express,
 - sequelize,
 - sqlite3.
 	
